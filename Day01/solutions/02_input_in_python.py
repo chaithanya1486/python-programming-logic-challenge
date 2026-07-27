@@ -1,12 +1,15 @@
-a = int(input())
-b = int(input())
-c = int(input())
+import math
 
-# Prints a
-print(a)
+# s to store string
+# n to store integer
+# f to store float
+# ff  # To Store floor of float variable f
 
-# Prints b
-#print(b)
+# code here
+s = input()
+n = int(input())
+ff = float(input())
 
-# Prints c
-print(c)
+print(s)
+print(n)
+print(math.floor(ff))
